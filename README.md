@@ -1,1 +1,1 @@
-# common
+Regroupe les utlitaires JS de SDU
