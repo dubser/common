@@ -1,1 +1,1 @@
-Regroupe les utlitaires JS de SDU
+Regroupe les utlitaires JS de SDU 

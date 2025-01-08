@@ -1,3 +1,7 @@
+// util.js est la 1e version de libr util
+// gardée pour rester compatible avec les import
+// classique de type   <script src="util1.js"></script>
+
 // Retourne les Min:sec courante pour debugging. 
 
 function getTstamp() {
@@ -10,9 +14,10 @@ function getTstamp() {
     }
 
 // Imprime du texte fourni en argument avec déroulement 
-// dans la fenetre ListWindow qui est un Div
+// dans la fenetre nommée ListWindow qui est un Div
 // du Panneau de controle de type construit dans 
 // TestCookie. CSS dans #ListWindow 
+// data: Données a afficher divId: Nom du div 
 
 function outListWin(data){
     const monDiv = document.getElementById("ListWindow");
